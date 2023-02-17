@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Devloper
 ----------------
 
-I am in my 4th year of engineering, studying at MSRIT. I have a great love for programming, which is why I am really active on various problem-solving websites, I am also exploring the Web Domain of this programming world and learning new things such as machine learning, mobile app development, and blockchain. I am a Competitive Programmer and have solved several problems related to data structures and algorithms I have been actively practising problem-solving on LeetCode, Codechef, and GFG. I worked with Edzeeta ( an online learning platform) during the summer break of my first year as a Web developer, Samsung Research and development institute Bangalore mentored me as a prism developer and recently I completed my internship with InterviewBit/Scaler as a Software Engineer Intern.
+At MSRIT, I am a fourth-year engineering student. My passion for programming has led me to be quite active on a number of problem-solving websites. I'm also learning new things like machine learning, mobile app development, and blockchain while exploring the Web Domain of the programming world.
+I have experience with competitive programming, and data structures and algorithms. I've been actively honing my problem-solving skills on LeetCode, CodeChef, and GFG.
+I worked as a web developer for Edzeeta (an online learning platform) throughout the summer of my first year, was mentored as a prism developer by Samsung Research and Development Institute Bangalore, and just finished an internship with InterviewBit/Scaler as a software engineer intern.
 
 * 🌍  I'm based in Bangalore, Karnataka, IN
 * 🖥️  See my portfolio at [My Portfolio](http://cstrike07.github.io/)
